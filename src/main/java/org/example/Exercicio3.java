@@ -14,7 +14,7 @@ class Faturamento {
 
 public class Exercicio3 {
     public static void main(String[] args) {
-        String arquivoJson = "C:\\Users\\pheen\\AppData\\Roaming\\JetBrains\\IdeaIC2023.3\\scratches\\scratch.json";
+        String arquivoJson = ".\\scratch.json";
 
         ObjectMapper objectMapper = new ObjectMapper();
 
